@@ -1,0 +1,8 @@
+C:/Game/Die Again/.utmp/RelWithDebInfo/566w5l5k/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Game/Die Again/.utmp/RelWithDebInfo/566w5l5k/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Game/Die Again/.utmp/RelWithDebInfo/566w5l5k/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Game/Die Again/.utmp/RelWithDebInfo/566w5l5k/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Game/Die Again/.utmp/RelWithDebInfo/566w5l5k/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
+C:/Game/Die Again/.utmp/RelWithDebInfo/566w5l5k/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/Game/Die Again/.utmp/RelWithDebInfo/566w5l5k/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+C:/Game/Die Again/.utmp/RelWithDebInfo/566w5l5k/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir

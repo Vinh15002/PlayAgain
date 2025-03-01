@@ -28,6 +28,7 @@ public class RetryBTN : BTN
 
     public override void OnClickBTN()
     {
+        ManagerSound.Instance.PlaySoundSFX(EnumSound.Click);
         ManagerUI.Instance.LoadScenePlay();
     }
 }

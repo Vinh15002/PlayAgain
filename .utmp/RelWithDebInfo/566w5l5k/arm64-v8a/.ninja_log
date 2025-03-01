@@ -1,0 +1,11 @@
+# ninja log v5
+121	1026	7624679152153952	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	be89f923c0580273
+1030	4776	7624679172697661	C:/Game/Die Again/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/566w5l5k/obj/arm64-v8a/libswappywrapper.so	3e9ccfc7295726c8
+4	5266	7624679194771079	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	37c6b78eb0722ea1
+55	5362	7624679195154359	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	e25851a3b54b1523
+71	6050	7624679202708783	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	f6159e1fcf3b4be8
+102	6207	7624679204954046	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	d9e4bdbf624666c4
+28	6658	7624679209568024	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	d4053c96f91859d8
+87	7116	7624679214254594	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	a9a18eac158e0f2d
+41	7556	7624679218374612	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	abc5f69fda44d827
+7557	8042	7624679221840275	C:/Game/Die Again/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/566w5l5k/obj/arm64-v8a/libgame.so	2b253fa8a1266bec

@@ -1,12 +1,11 @@
 ﻿using DG.Tweening;
 using System;
 using System.Collections;
-using Unity.VisualScripting;
-using UnityEditor.SearchService;
+
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
-using static UnityEngine.Rendering.DebugUI;
+
 
 public class ManagerUI : MonoBehaviour
 {
@@ -65,7 +64,7 @@ public class ManagerUI : MonoBehaviour
     {
         
         int getScene = PlayerPrefs.GetInt("Level", 1) + 1;
-        if(getScene > 4) {ChangeScene(EnumNameScene.MainScene, 0); return; }
+        if(getScene > 4) { ResetLevel(); ChangeScene(EnumNameScene.MainScene, 0); return; }
         EnumNameScene scene = (EnumNameScene)(100 + getScene);
         PlayerPrefs.SetInt("Level", getScene);
         ChangeScene(scene, 0);
